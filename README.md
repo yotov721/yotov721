@@ -1,7 +1,5 @@
-### Hi there 👋! Welcome to Yoto's GitHub Overview Page. 
+### Hi there 👋! Welcome to my GitHub Overview Page. 
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoto-Yotov&count_private=true&show_icons=true)
 
 
 <!--
