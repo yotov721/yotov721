@@ -1,18 +1,28 @@
-### Hi there 👋! Welcome to my GitHub Overview Page. 
-<br/>
+### Hi there, I'm yotov721 👋
 
+### **Blockchain Developer & Smart Contract Auditor**  
+- 🔒 Working under NDA  
+- 🛠️ Built multiple projects in the Web3 space  
+- 🔍 Focused on secure and efficient smart contract development
 
-<!--
-**Yoto-Yotov/Yoto-Yotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+- 💻 Solidity, Foundry, Hardhat, JS, EVM
+- 🧪 Other: Docker, Git, bash
 
-Here are some ideas to get you started:
+### Security & Auditing
+ - 🕵️‍♂️ Specialize in identifying vulnerabilities and optimizing smart contracts for gas efficiency and security
+ - 📌 Staying up-to-date with the latest exploits and defensive patterns in DeFi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Past life
+- ⚙️ DevOps Engineer in the Java ecosystem - 3y
+  - Java, Gradle, Azure devops, Groovy, KTS, Spring Boot, Docker, Git, bash, Telemetry stack
+- 🐍 Python Developer specializing in Data Mining - 2y
+  - Python, Django, Docker, Git, bash, Elasticsearch, Redis, PostgreSQL
+
+### Hobbies
+- 🏋️ Fitness & strength training
+- 📚 Reading
+- 🎬 Film enthusiast
+
+Feel free to reach out to collaborate!
+
