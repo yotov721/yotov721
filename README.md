@@ -24,5 +24,5 @@
 - 📚 Reading
 - 🎬 Film enthusiast
 
-Feel free to reach out to collaborate!
+Feel free to reach out!
 
