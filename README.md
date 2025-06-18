@@ -7,7 +7,7 @@
 - 💻 Solidity, Foundry, Hardhat, JS, EVM
 - 🧪 Other: Docker, Git, bash
 ### Past life
-- ⚙️ Java Software Engineer (Automation) ecosystem - 3y
+- ⚙️ Java Software Engineer (Automation) - 3y
   - Java, Gradle, Azure devops, Groovy, KTS, Spring Boot, Docker, Git, bash, Telemetry stack
 - 🐍 Python Engineer specialized in Data Mining - 2y
   - Python, Django, Docker, Git, bash, Elasticsearch, Redis, PostgreSQL
