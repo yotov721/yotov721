@@ -4,7 +4,7 @@
 - 🛠️ Built multiple projects in the Web3 space  
 - 🔍 Focused on secure and efficient smart contract development
 ### Tech Stack
-- 💻 Solidity, Foundry, Hardhat, JS, EVM
+- 💻 Solidity, Foundry, Hardhat, JS, EVM, React
 - 🧪 Other: Docker, Git, bash
 ### Past life
 - ⚙️ Java Software Engineer (Automation) - 3y
