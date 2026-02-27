@@ -1,4 +1,4 @@
-### Hi there, I'm Jon "yotov721" Yotov 
+### GM, I'm Jon "yotov721" Yotov 
 ### **Blockchain Developer & Smart Contract Auditor**  
 - 🔒 Working under NDA  
 - 🛠️ Built multiple projects in the Web3 space  
